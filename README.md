@@ -5,8 +5,8 @@
 2. [Vagrant](https://www.vagrantup.com/downloads.html) 
 
 ## Procedure
-1. `git clone https://github.com/olufuwatobi/node-express-mongoose-demo-on-aws.git ~/njmdb`
-2. `cd njmdb`
+1. `git clone https://github.com/olufuwatobi/node-express-mongoose-demo-on-aws.git ~/njmdbv`
+2. `cd ~/njmdbv`
 3. `git checkout vagrant`
 4. run `vagrant up`
 5. then enter `192.168.56.101` in the browser 
