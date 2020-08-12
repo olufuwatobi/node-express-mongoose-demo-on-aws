@@ -1,4 +1,4 @@
-### NodeJS and MongoDB on Vagrant
+# NodeJS and MongoDB on Vagrant
 
 ## Prerequisite
 1. [VirtualBox](https://www.virtualbox.org/) 
@@ -11,5 +11,5 @@
 4. run `vagrant up`
 5. then enter `192.168.56.101` in the browser 
 
-# To stop and delete the whole VM
+## To stop and delete the whole VM
 run `vagrant destroy -f`
