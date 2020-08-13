@@ -9,7 +9,7 @@
 2. `cd ~/njmdbv`
 3. `git checkout vagrant`
 4. run `vagrant up`
-5. then enter `192.168.56.101:3000` in the browser 
+5. then enter `192.168.56.101:3000` in the browser once the download is complete.
 
 ## To stop and delete the whole VM
 run `vagrant destroy -f`
